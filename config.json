@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscender",
+        "uuid": 8819010,
+        "checksum": "9t1uid"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
